@@ -1,0 +1,18 @@
+1) retrieve/get the number on click
+2) check if there is value entered by user or not
+3) define secret number
+4) make secret number unhidden
+5) compare secret number to user guess
+5.1) if number is equal
+5.2) if number is greater
+5.3) if number is lower
+6) decrease score whenever wrong number is guessed
+6.1) make score variable with value 20
+6.2) decrease score by 1 if guess is greater
+6.3) decrease score by 1 if guess is lower
+6.4) update score of the element
+6.5) add game over clause
+7) change background to green and make number wider when guess is correct
+8) hide secret number
+9) implement AGAIN button to reset the game
+10) implement highscore functionality
